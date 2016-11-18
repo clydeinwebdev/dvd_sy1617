@@ -8,9 +8,8 @@
 1. git remote add origin https://github.com/clydeinwebdev/dvd_sy1617.git
 1. git push
 
-#Laboratory Activity:
+#Laboratory Activity:Setup decodeApp boilerplate
 
-Setup decodeApp boilerplate:
 1. Get tools from http://172.30.10.135/st
 2. Fork decodeapp_boilerplate
 3. Open git bash
