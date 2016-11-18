@@ -31,3 +31,22 @@
 	$ git remote set-url origin https://github.com/yourusername/mydecodeapp.git
 	$ git push -u origin master
 10. Fin
+
+##Results
+
+* Jamola  -  192.168.1.7:4000
+* Varquez  -  192.168.1.5:4000
+* Tan    -  192.168.1.10:4000
+* Amil  -   192.168.1.8:4000
+* Bureros  -   192.168.1.21:4000
+* Escandor  -  192.168.1.11:4000
+* Tumala  -  192.168.1.2:4000
+* Chatto  -  192.168.1.3:4000
+* Yuson  -  192.168.1.20:4000
+* Binobo  -   192.168.1.9:4000
+* -------------------------------
+* DelaCruz-   192.168.1.17:4000
+* Goubelle  -  192.168.1.14:4000
+* Alfar  -  192.168.1.19:4000
+* --------------------------------
+* Tamayo  -  192.168.1.15:4000
